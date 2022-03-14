@@ -6,7 +6,7 @@ print("Mi nombre es Diego y deseo aprender python")
 print("Soy fisico")
 print("Deseo aprender mucho programacion")
 
-dato1 = "hola DIego"
+dato1 = "hola DIego Armando Galeano"
 print(type(dato1))
 
 
