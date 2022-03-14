@@ -1,4 +1,10 @@
 Acá empieza la historia de diego Galeano como programador.
 1.curso de la terminal 
 2.curso de git 
+Git es un sistema de control de versiones.
+orden de comandos 
+a. git init (Empieza en tu carpeta un repositorio base de datos donde se vn a guardar los archivos)
+b. git add nombre_archivo.extención (agrega a la base de datos los cambios)
+c. git commit -m "versión" (envía los ultimos cambios del archivo a la base de datos del sistema control de versiones)
+
 3. empezar con curso basico de python
