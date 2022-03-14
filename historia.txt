@@ -1,5 +1,4 @@
 Acá empieza la historia de diego Galeano como programador.
-1. curso de git 
-2. curso de la terminal 
+1.curso de la terminal 
+2.curso de git 
 3. empezar con curso basico de python
- 
