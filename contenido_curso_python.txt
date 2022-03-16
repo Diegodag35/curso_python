@@ -1,0 +1,32 @@
+Contenido del curso de python completo 
+
+1. Introducción a python 
+ 1.0. Operadores aritméticos (listo)
+ 1.1. base de python identación
+ 1.2.  comentarios
+ 1.3. variables
+ 1.4. variables multiples
+ 1.5 oncatenación
+
+2. tipos de datos
+ 2.1. introducción a la selección
+ 2.2. string y numeros
+ 2.3. introducción a listas
+ 2.4. contando elementos y calculando el largo de una listas
+ 2.5. Accediendo a elementos de las listas
+ 2.6. Eliminando elementos de una lista
+ 2.7. Reverse y sort
+ 2.8. Tuplas
+ 2.9. Range
+ 2.10. Introducción a diccionarios
+ 2.11. Profundizamos en diccionarios
+ 2.12. Diccionarios anidados y constructor dict
+ 2.13. Booleanos
+
+3. Control de flujo
+ 3.1.Introducción
+ 3.2. if y condiciones
+ 3.3. if, elif y else
+ 3.4. if cortos y ternarios
+ 3.5. and y or
+
