@@ -1,34 +1,18 @@
-#concatenación (+) unir dos o mas cadenas de texto, suma de numeros o texto 
-#se debe usar str() el numero
+#Primer dia make it real
+"""print("Ingrese su nombre ")
+nombre = input()
+print"Hola " + nombre)"""
 
-cumple_uno = "Yo tengo "
-edad = 35
+"""cumple_uno = "yo tengo "
+edad = 36
 cumple_dos = " años"
+mensaje_completo = cumple_uno + str(edad) + cumple_dos
+print(mensaje_completo)"""
 
-Mensaje_completo = cumple_uno + str(edad) + cumple_dos
-
-print(Mensaje_completo)
-
-# mas igual
-
-"""numero_Km = 5
-numero_Km = numero_Km + 4
-print(numero_Km)"""
-
-numero_Km = 5
-numero_Km += 4
-print(numero_Km)
-
-"""nombre = "Diego "
-apellido = "Galeano"
-nombre_completo = nombre + apellido
-print(nombre_completo)"""
-
-nombre = "Diego "
-nombre += "Armando"
-print(nombre)
-
-
+numero_km = 5
+#numero_km = numero_km + 3
+numero_km += 5
+print(numero_km)
 
 
 
