@@ -9,9 +9,9 @@ def run():
 
     # mi_funcion("hola",2)
     #función raiz cuadrada 
-    def raiz_nesima (exponente,potencia):
-        resultado = potencia**(1/exponente)
-        print("la raiz " + str(exponente) +" de "+ str(potencia) + " es: ", resultado)
+    # def raiz_nesima (exponente,potencia):
+    #     resultado = potencia**(1/exponente)
+    #     print("la raiz " + str(exponente) +" de "+ str(potencia) + " es: ", resultado)
 
    
     #factorial de un numero
@@ -24,6 +24,19 @@ def run():
     #     contador += 1
 
     # print(str(numero) + "! = ", factorial)
+
+    #practica del uso del return
+
+    def valor_cuadrado(valor_x,valor_y):
+        x_2 = valor_x**2
+        y_2 = valor_y**2
+        return x_2 , y_2
+
+    x_2_cuadrado, y_2_cuadrado = valor_cuadrado(1,3)
+
+    print(x_2_cuadrado , y_2_cuadrado)
+    
+ 
 
 
 
